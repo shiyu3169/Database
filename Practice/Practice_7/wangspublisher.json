@@ -1,0 +1,62 @@
+[{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b5b"
+	},
+	"name": "Random House",
+	"date": {
+		"$date": "2002-04-23T00:00:00.000Z"
+	},
+	"addresses": [
+		{
+			"street": "1475 Broadway",
+			"city": "New York",
+			"zip": "10019",
+			"state": "New York",
+			"country": "US"
+		},
+		{
+			"street": "375 Hudson Street",
+			"city": "New York",
+			"zip": "10014",
+			"state": "New York",
+			"country": "US"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b5c"
+	},
+	"name": "Penguin Publishers",
+	"date": {
+		"$date": "1998-01-19T00:00:00.000Z"
+	},
+	"addresses": [
+		{
+			"street": "140 Broadway",
+			"city": "New York",
+			"zip": "10013",
+			"state": "New York",
+			"country": "US"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b5d"
+	},
+	"name": "Addison-Wesley",
+	"date": {
+		"$date": "1994-03-01T00:00:00.000Z"
+	},
+	"addresses": [
+		{
+			"street": "75 Arlington Street",
+			"city": "Boston",
+			"zip": "2116",
+			"state": "Massachusetts",
+			"country": "US"
+		}
+	]
+}]
+

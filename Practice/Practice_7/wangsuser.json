@@ -1,0 +1,95 @@
+[{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b52"
+	},
+	"username": "ashley",
+	"password": "ashley",
+	"active": true,
+	"addresses": [
+		{
+			"street": "170 Commonwealth Avenue",
+			"city": "Boston",
+			"zip": "02140",
+			"state": "Massachusetts",
+			"country": "US"
+		},
+		{
+			"street": "10 Park Avenue",
+			"city": "Boston",
+			"zip": "02140",
+			"state": "Massachusetts",
+			"country": "US"
+		}
+	],
+	"dateOfCreation": {
+		"$date": "2014-04-20T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b53"
+	},
+	"username": "jason",
+	"password": "jason",
+	"active": true,
+	"addresses": [
+		{
+			"street": "70 Peterbourough Street",
+			"city": "Boston",
+			"zip": "02145",
+			"state": "Massachusetts",
+			"country": "US"
+		},
+		{
+			"street": "2 Downtown",
+			"city": "Boston",
+			"zip": "02143",
+			"state": "Massachusetts",
+			"country": "US"
+		}
+	],
+	"dateOfCreation": {
+		"$date": "2015-09-20T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b54"
+	},
+	"username": "admin",
+	"password": "admin",
+	"active": true,
+	"addresses": [
+		{
+			"street": "10 Geng Road",
+			"city": "Palo Alto",
+			"zip": "94303",
+			"state": "California",
+			"country": "US"
+		}
+	],
+	"dateOfCreation": {
+		"$date": "2014-01-04T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b55"
+	},
+	"username": "jen",
+	"password": "jen",
+	"active": false,
+	"addresses": [
+		{
+			"street": "Geng Road",
+			"city": "Palo Alto",
+			"zip": "94303",
+			"state": "California",
+			"country": "US"
+		}
+	],
+	"dateOfCreation": {
+		"$date": "2013-11-25T00:00:00.000Z"
+	}
+}]
+

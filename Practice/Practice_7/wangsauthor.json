@@ -1,0 +1,51 @@
+[{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b56"
+	},
+	"first_name": "Danielle",
+	"last_name": "Steel",
+	"dob": {
+		"$date": "1967-03-02T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b57"
+	},
+	"first_name": "Donald",
+	"last_name": "Knuth",
+	"dob": {
+		"$date": "1938-10-01T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b58"
+	},
+	"first_name": "Brian",
+	"last_name": "Kernigan",
+	"dob": {
+		"$date": "1951-02-28T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b59"
+	},
+	"first_name": "Herbert",
+	"last_name": "Schild",
+	"dob": {
+		"$date": "1951-02-28T00:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b5a"
+	},
+	"first_name": "Larry",
+	"last_name": "Wall",
+	"dob": {
+		"$date": "1952-09-27T00:00:00.000Z"
+	}
+}]
+

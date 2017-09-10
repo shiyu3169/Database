@@ -1,0 +1,142 @@
+[{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b5e"
+	},
+	"title": "Southern Lights",
+	"author": {
+		"$ref": "author",
+		"$id": {
+			"_id": {
+				"$oid": "57007e5375d4357be0915b56"
+			},
+			"first_name": "Danielle",
+			"last_name": "Steel",
+			"dob": {
+				"$date": "1967-03-02T00:00:00.000Z"
+			}
+		}
+	},
+	"isbn": "303041974",
+	"publisher": [
+		{
+			"$ref": "publisher",
+			"$id": {
+				"_id": {
+					"$oid": "57007e5375d4357be0915b5b"
+				},
+				"name": "Random House",
+				"date": {
+					"$date": "2002-04-23T00:00:00.000Z"
+				},
+				"addresses": [
+					{
+						"street": "1475 Broadway",
+						"city": "New York",
+						"zip": "10019",
+						"state": "New York",
+						"country": "US"
+					},
+					{
+						"street": "375 Hudson Street",
+						"city": "New York",
+						"zip": "10014",
+						"state": "New York",
+						"country": "US"
+					}
+				]
+			}
+		},
+		{
+			"$ref": "publisher",
+			"$id": {
+				"_id": {
+					"$oid": "57007e5375d4357be0915b5c"
+				},
+				"name": "Penguin Publishers",
+				"date": {
+					"$date": "1998-01-19T00:00:00.000Z"
+				},
+				"addresses": [
+					{
+						"street": "140 Broadway",
+						"city": "New York",
+						"zip": "10013",
+						"state": "New York",
+						"country": "US"
+					}
+				]
+			}
+		}
+	],
+	"available": true,
+	"pages": 2042.0,
+	"summary": "Danielle Steel sweeps us from a Manhattan courtroom to the Deep South in her powerful new novelâ€”at once a behind-closed-doors look into the heart of a family and a tale of crime and punishment.",
+	"subjects": [
+		"Fiction",
+		"Romance"
+	],
+	"note": [
+		{
+			"notesuser": "jason",
+			"notebody": "Nice book. Must Read"
+		},
+		{
+			"notesuser": "jen",
+			"notebody": "Nice book. I have been traveling a lot, so I listened to the audio of this book. I really enjoyed it."
+		}
+	],
+	"language": "English"
+},
+{
+	"_id": {
+		"$oid": "57007e5375d4357be0915b5f"
+	},
+	"title": "Concrete Mathematics",
+	"author": {
+		"$ref": "author",
+		"$id": {
+			"_id": {
+				"$oid": "57007e5375d4357be0915b57"
+			},
+			"first_name": "Donald",
+			"last_name": "Knuth",
+			"dob": {
+				"$date": "1938-10-01T00:00:00.000Z"
+			}
+		}
+	},
+	"isbn": "0-203-03803-1",
+	"publisher": [
+		{
+			"$ref": "publisher",
+			"$id": {
+				"_id": {
+					"$oid": "57007e5375d4357be0915b5d"
+				},
+				"name": "Addison-Wesley",
+				"date": {
+					"$date": "1994-03-01T00:00:00.000Z"
+				},
+				"addresses": [
+					{
+						"street": "75 Arlington Street",
+						"city": "Boston",
+						"zip": "2116",
+						"state": "Massachusetts",
+						"country": "US"
+					}
+				]
+			}
+		}
+	],
+	"available": "Y",
+	"pages": 3524.0,
+	"summary": "Concrete Mathematics: A Foundation for Computer Science, by Ronald Graham, Donald Knuth, and Oren Patashnik, is a textbook that is widely used in computer-science departments",
+	"subjects": [
+		"Mathematics",
+		"Algebra"
+	],
+	"note": [],
+	"language": "English"
+}]
+
